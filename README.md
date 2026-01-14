@@ -44,7 +44,7 @@ global fidelity while highlighting metal artifacts, particularly along edges.</e
 <p align="center">
   <img src="assets/5.png" alt="Schematic of the high pass filtering and denoising process." width="800">
   <br>
-  <em>Figure 5: Schematic of the high pass filtering and denoising process. The input image x undergoes Fourier transform and frequency separation, where the high frequency component xhigh is denoised by a neural network fθ. The denoised output is fused with the retained low frequency component to obtain the prior image xprior, preserving image fidelity while reducing metal artifacts.</em>
+  <em>Figure 5: Schematic of the high pass filtering and denoising process. The input image x undergoes Fourier transform and frequency separation, where the high frequency component xhigh is denoised by a neural network fθ. The denoised output is fused with the retained low frequency component to obtain the prior image xprior, preserving image fidelity while reducing metal artifacts.</em>
 </p>
 
 ## Results
