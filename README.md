@@ -31,7 +31,7 @@ Metal implants and other high-density objects cause significant artifacts in com
 <p align="center">
   <img src="assets/3.png" alt="Illustration of the Fourier frequency separation and fusion process." width="800">
   <br>
-  <em>Figure 3: Illustration of the Fourier frequency separation and fusion process. The original image (a) is decomposed into highfrequency (b) and low-frequency (c) components via Fourier-based filtering. These components are then merged (d) to preserve
+  <em>Figure 3: Illustration of the Fourier frequency separation and fusion process. The original image (a) is decomposed into high frequency (b) and low-frequency (c) components via Fourier-based filtering. These components are then merged (d) to preserve
 global fidelity while highlighting metal artifacts, particularly along edges.</em>
 </p>
 
@@ -69,7 +69,7 @@ global fidelity while highlighting metal artifacts, particularly along edges.</e
 <p align="center">
   <img src="assets/9.png" alt="Comparison of different MAR methods on the clinical dataset of patients undergoing oral and maxillofacial examinations with metallic structures of various sizes." width="800">
   <br>
-  <em>Figure 9:Comparison of different MAR methods on the clinical dataset of patients undergoing oral and maxillofacial examinations with metallic structures of various sizes. The display window was set to [−175, 275] HU.</em>
+  <em>Figure 9:Comparison of different MAR methods on the clinical dataset of patients undergoing oral and maxillofacial examinations with metallic structures of various sizes. The display window was set to [−175, 275] HU.</em>
 </p>
 
 <p align="center">
