@@ -57,7 +57,7 @@ global fidelity while highlighting metal artifacts, particularly along edges.</e
 <p align="center">
   <img src="assets/7.png" alt="Comparison of different MAR methods on the synthesized DeepLesion dataset with metallic implants of various sizes." width="800">
   <br>
-  <em>Figure 7: Comparison of different MAR methods on the synthesized DeepLesion dataset with metallic implants of various sizes.From top to bottom: reconstructed CT images, corresponding sinograms, and intensity profiles extracted along the central horizontal line of the full image. PSNR (dB)/SSIM below is for reference. The display window is [−175, 275] HU.</em>
+  <em>Figure 7: Comparison of different MAR methods on the synthesized DeepLesion dataset with metallic implants of various sizes.From top to bottom: reconstructed CT images, corresponding sinograms, and intensity profiles extracted along the central horizontal line of the full image. PSNR (dB)/SSIM below is for reference. The display window is [−175, 275] HU.</em>
 </p>
 
 <p align="center">
